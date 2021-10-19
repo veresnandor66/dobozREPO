@@ -1,0 +1,19 @@
+.doboz {
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    width:80%;
+    border: 10px groove black;
+    margin: 50px;
+}
+.doboz h1{
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+#pottyos{
+    border: 20px dotted black;
+    color: white;
+}
+#vonalas{
+    border: 10px dashed black;
+}
